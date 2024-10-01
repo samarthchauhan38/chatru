@@ -1,1 +1,1 @@
-# chatru
+Code creates a chat application using PyQt5 that allows users to sign up, log in, and exchange messages and images over a socket connection, while storing user credentials in a MySQL database. It features a graphical interface for user interaction and real-time communication through threaded message reception.
